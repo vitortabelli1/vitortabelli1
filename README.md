@@ -1,5 +1,5 @@
 <h1><br> Hello, I'm Vitor Tabelli 👋 </br> </h1>
-<br>
+
 <h2><br> Technologies I use in my daily life</h2><br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,5 +9,6 @@
 
 <br>
 
-About me:
-
+About me:<br>
+✅ Fullstack - Backend Developer <br>
+📒 Enthusiast in wanting to learn new programming skills and help people
