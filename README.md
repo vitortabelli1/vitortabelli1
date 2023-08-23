@@ -1,10 +1,10 @@
-Olá, eu sou Vitor Tabelli 👋
+<h1><br>Olá, eu sou Vitor Tabelli 👋 </br> </h1>
 <br>
-<br>
+
 <b>Sou apaixonado por tecnologia, e entusiasmo pela carreira de Dev</b> 
 <br>
-<br>
-<b>Tecnologias que uso no meu dia a dia</b>
+
+<h2><br>Tecnologias que uso no meu dia a dia</h2>h2><br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
